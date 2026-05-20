@@ -136,10 +136,12 @@ Screenshot of:
 ```python
 movies.head()
 ```
+<img width="1328" height="371" alt="image" src="https://github.com/user-attachments/assets/5cca7bdf-7927-4a53-9f1c-3916de9e7b1e" />
 
 File name:
 ```bash
-dataset-preview.png
+<img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/e354963f-6490-42ae-9784-1ad11cf484de" />
+
 ```
 
 ---
@@ -149,6 +151,8 @@ Screenshot of:
 ```python
 movies.info()
 ```
+
+
 
 File name:
 ```bash
@@ -175,6 +179,8 @@ Screenshot of:
 ```python
 recommend('captan ')
 ```
+<img width="947" height="342" alt="image" src="https://github.com/user-attachments/assets/18a0083c-fba0-4779-8bab-8efaf198e664" />
+
 
 File name:
 ```bash
@@ -196,7 +202,8 @@ screenshots/
 Use:
 
 ```md
-![Recommendation Output](screenshots/recommendation-output.png)
+![Uploading image.png…]()
+
 ```
 
 Example:
@@ -204,7 +211,6 @@ Example:
 ```md
 ## Recommendation Output
 
-![Recommendation Output](screenshots/recommendation-output.png)
 ```
 
 ---
