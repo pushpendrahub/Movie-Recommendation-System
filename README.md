@@ -156,7 +156,8 @@ movies.info()
 
 File name:
 ```bash
-dataset-info.png
+<img width="774" height="348" alt="image" src="https://github.com/user-attachments/assets/8789ec04-bb4a-407c-b448-b032af1420a0" />
+
 ```
 
 ---
@@ -169,7 +170,8 @@ recommend('Inception')
 
 File name:
 ```bash
-recommendation-output.png
+<img width="1175" height="329" alt="image" src="https://github.com/user-attachments/assets/a2a6f717-6f6b-4529-91ba-30667462d70c" />
+
 ```
 
 ---
@@ -184,7 +186,8 @@ recommend('captan ')
 
 File name:
 ```bash
-fuzzy-matching.png
+<img width="538" height="343" alt="image" src="https://github.com/user-attachments/assets/f2130ce9-922a-4017-a09a-6d41c53af390" />
+
 ```
 
 This is VERY GOOD because it shows typo handling capability.
